@@ -1,0 +1,709 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preached before His Maiestie, at Whitehall, on Easter day last, 1614. By the Bishop of Elie, His Maiesties almoner</title>
+            <author>Andrewes, Lancelot, 1555-1626.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1614</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 64 KB of XML-encoded text transcribed from 24 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A19793</idno>
+            <idno type="STC">STC 622</idno>
+            <idno type="STC">ESTC S100199</idno>
+            <idno type="EEBO-CITATION">99836048</idno>
+            <idno type="PROQUEST">99836048</idno>
+            <idno type="VID">291</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A19793)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 291)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1475-1640 ; 689:02)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preached before His Maiestie, at Whitehall, on Easter day last, 1614. By the Bishop of Elie, His Maiesties almoner</title>
+                  <author>Andrewes, Lancelot, 1555-1626.</author>
+               </titleStmt>
+               <extent>[4], 44 p.   </extent>
+               <publicationStmt>
+                  <publisher>By Robert Barker, printer to the Kings most Excellent Maiestie,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>1614.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Bishop of Elie = Lancelot Andrewes.</note>
+                  <note>Initial leaf contains large signature-mark "A" with part of a woodcut frame.</note>
+                  <note>Reproduction of the original in Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Easter --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-03</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:291:1"/>
+            <pb facs="tcp:291:1" rendition="simple:additions"/>
+            <p>A SERMON PREACHED BE<g ref="char:EOLhyphen"/>fore His Maieſtie,</p>
+            <p>
+               <hi>At Whitehall, on Easter day</hi> laſt, 1614.</p>
+            <p>¶ By the Biſhop of <hi>Elie,</hi> His Maieſties Almoner.</p>
+            <p>¶ <hi>Jmprinted at London by</hi> Robert Barker, <hi>Printer to the Kings most</hi> Excellent Maieſtie. 1614.</p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:291:2" rendition="simple:additions"/>
+            <epigraph>
+               <bibl>PHILIP. II.</bibl>
+               <q>
+                  <p n="8">
+                     <hi>8</hi>
+                     <seg rend="decorInit">H</seg>E humbled Himſelfe, made obedient, vnto death, euen the death, of the Croſſe.</p>
+                  <p n="9">
+                     <hi>9</hi> For this cauſe, hath God alſo, highly exalted Him; and giuen Him a Name, aboue euery name.</p>
+                  <p n="10">
+                     <hi>10</hi> That, at the Name of <hi>Ieſus,</hi> euery knee ſhould bow, of thoſe in Heauen, and in Earth, and vnder the Earth.</p>
+                  <p n="11">
+                     <hi>11</hi> And that, euery Tongue ſhould confeſſe, that <hi>Ieſus Chriſt</hi> is the Lord, to the glory of GOD the Father.</p>
+               </q>
+            </epigraph>
+            <p>
+               <pb n="1" facs="tcp:291:2" rendition="simple:additions"/>
+               <note place="margin">The ſumme.</note>
+               <hi>
+                  <seg rend="decorInit">F</seg>Or this cauſe, God hath exal<g ref="char:EOLhyphen"/>ted him</hi> (ſaith the Text) <hi>Him,</hi> (that is <hi>Chriſt.</hi>) And, <hi>for this cauſe</hi> are wee now here, to celebrate this <hi>exalting.</hi> Of which His <hi>exalting,</hi> this is the firſt day: and the Act of this day, the firſt ſtep of it: euen, <hi>His riſing againe from the dead. Haec est clari<g ref="char:EOLhyphen"/>ficatio Domini noſtri</hi> Ieſu Chriſti, <hi>quae, ab Eius reſurrectione ſumpſit exordium</hi> (ſaith <hi>S. Augu<g ref="char:EOLhyphen"/>ſtine</hi> vpon this place.) This now, is the glori<g ref="char:EOLhyphen"/>fying of our Lord <hi>Ieſus Christ,</hi> which, tooke his beginning, at His glorious reſurrection.</p>
+            <p>Thus, is the ſumme and ſubſtance of this Text, ſet downe by that learned Father.</p>
+            <p>
+               <note place="margin">The diuiſion.</note>By him alſo, is it likewiſe diuided to our hands: Into, <hi>Humilitas Claritatis meritum;</hi> and, <hi>Claritas humilitatis praemium.</hi> Humilitie,<milestone type="tcpmilestone" unit="unspecified" n="1"/> the merit of glory: (in the firſt verſe of the 4.) And Glory the reward of humilitie (in the <milestone type="tcpmilestone" unit="unspecified" n="2"/>
+               <pb n="2" facs="tcp:291:3" rendition="simple:additions"/>other three.) Which two, here and euer, are ſo faſt linked together, as, there is no par<g ref="char:EOLhyphen"/>ting them. I cannot, but touch, and I wil, but touch the Merit (in the firſt verſe:<milestone type="tcpmilestone" unit="unspecified" n="1"/>) It pro<g ref="char:EOLhyphen"/>perly pertaines, to another day. And ſo, come to <hi>Opus diei.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> The matter of this dayes exultation, is called here, <hi>His exaltation.</hi>
+            </p>
+            <p>And is, of two ſorts. By God, (in the 9. verſe,) And by vs, (in the two laſt.)</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> By God; And that, is double: <hi>Of his Per<g ref="char:EOLhyphen"/>ſon: Of his Name.</hi> Two <hi>Super's,</hi> either, one; <hi>Super-exaltauit Ipſum.</hi>
+               <milestone type="tcpmilestone" unit="unspecified" n="a"/> His Perſon, there is one (in the forepart of the 9. verſe.) And <hi>Nomen ſuper omne nomen,</hi>
+               <milestone type="tcpmilestone" unit="unspecified" n="b"/> His Name; there is the other (in the latter part of it.) And this is Gods.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> Then commeth ours. For, God exalting it Himſelfe; He will haue vs to doe the like. And not to doe it inwardly, alone: but euen outwardly to acknowledge it for ſuch: And ſets downe preciſely this acknowledgment, how He will haue it made by vs. Namely, two wayes:<milestone type="tcpmilestone" unit="unspecified" n="a"/> By the <hi>Knee,</hi> by the <hi>Tongue.</hi> The <hi>Knee,</hi>
+               <milestone type="tcpmilestone" unit="unspecified" n="b"/> 
+               <hi>to bow to it,</hi> (verſe 10.) The
+<pb n="3" facs="tcp:291:3" rendition="simple:additions"/>
+               <hi>Tongue, to confeſſe it,</hi> (verſe 11.) And both theſe, to be general; <hi>Euery Knee, euery Tongue.</hi> And not in groſſe, but deduced into three ſe<g ref="char:EOLhyphen"/>uerall rankes: <hi>All in Heauen, All in earth, All vnder the earth:</hi> which comprehends all (in<g ref="char:EOLhyphen"/>deed) and leaues none out. This ac<g ref="char:EOLhyphen"/>knowledgement,<milestone type="tcpmilestone" unit="unspecified" n="c"/> thus, but onely inſinuated by the <hi>Knee,</hi> is by the <hi>Tongue</hi> more plainely expreſſed: And this it is, That <hi>Ieſus Chriſt is the Lord,</hi> Lord of all thoſe three. This,<milestone type="tcpmilestone" unit="unspecified" n="d"/> to be done, and ſo done, as it redound all, <hi>to the glory of God the Father.</hi>
+            </p>
+            <p>But then laſt, take the vſe with vs. That, ſince in Him, His <hi>humiliauit ſe ipſum,</hi> ends in <hi>Super-exaltauit Deus:</hi> His <hi>humbling Himſelfe,</hi> in Gods <hi>Exalting;</hi> That,<note place="margin">Verſe 5.</note> 
+               <hi>the ſame mind be in vs:</hi> And, the ſame end ſhall come to vs. As his end was, ſo ours ſhalbe, <hi>in the glory of God the Father.</hi>
+            </p>
+            <p>The Prayer, &amp;c.</p>
+            <div type="part">
+               <pb n="4" facs="tcp:291:4" rendition="simple:additions"/>
+               <head>Propter quod,<note place="margin">Verſe 8.</note> For this cauſe.</head>
+               <p>WEe touch firſt vpon this word.<note place="margin">Propter.</note> It is the <hi>Axis</hi> and <hi>Cardo,</hi> the ve<g ref="char:EOLhyphen"/>ry point, whereupon the whole Text turneth.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="1"/> Firſt, <hi>Propter;</hi> A cauſe there is. So God <hi>exalts</hi> euer; <hi>for a cauſe.</hi> Here, on earth, other<g ref="char:EOLhyphen"/>while, there is an <hi>Exaltauit,</hi> without a <hi>Propter quod.</hi> Some,<note place="margin">Eſay 12.15. Eſt. 3.1. Nehem. 4.1.</note> as <hi>Sobna, Haman, Sanballat,</hi> ſometimes <hi>exalted;</hi> no man knowes, where<g ref="char:EOLhyphen"/>fore. With God, there goeth euer; with men, there ſhould go, a <hi>Propter quod,</hi> before <hi>Exaltauit.</hi>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="2"/>
+                  <hi>For a cauſe:</hi> for what? <hi>for this cauſe.</hi> And this now,<note place="margin">Propter quod.</note> caſts vs backe to the former verſe, where it is ſet downe, <hi>Humiliauit:</hi> There it is, for <hi>His Humilitie.</hi>
+               </p>
+               <p>Now,<note place="margin">Humiliauit.</note> of all cauſes, not for that: if we goe by this world, which (as the prouerbe is) was made for the preſumptuous. Not, for that vertue, of all others. A vertue, (before <hi>Chriſt</hi> thus graced it) ſo, out of requeſt, as, the <hi>Phi<g ref="char:EOLhyphen"/>loſophers,</hi>
+                  <pb n="5" facs="tcp:291:4" rendition="simple:additions"/>(looke into their <hi>Ethiques</hi>) you ſhall <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſo much as finde the name of <hi>humilitie,</hi> in the liſt of all their vertues. Well, this caſt vertue, of no reckoning: is here made the <hi>Propter quod,</hi> of <hi>Chriſts exalting.</hi> As,<note place="margin">Luke 1.48.</note> 
+                  <hi>Reſpexit humilitatem,</hi> the ground, of His Mothers <hi>Magnificat.</hi> And He, that, by Him,<note place="margin">2. Cor. 4.6.</note> 
+                  <hi>brought light out of darkeneſſe,</hi> at the firſt: will by Him, bring glory out of <hi>humilitie</hi> at laſt, Or, this booke deceiueth vs. With God, it ſhall haue the place of a <hi>Propter quod;</hi> how poore account ſoeuer, we make of it here.</p>
+               <p>But, this <hi>Quod,</hi> is a Collectiue; there bee in it, more points then one. I will but point at them.</p>
+               <p>
+                  <hi>Humiliauit Ipſe,</hi>
+                  <note place="margin">Ipſe. 1.</note> 
+                  <hi>He humbled (He:)</hi> which many times is idle, but here, a circumſtance of great waight. <hi>He:</hi> ſo great a Perſon; <hi>be<g ref="char:EOLhyphen"/>ing in the forme of God,</hi>
+                  <note place="margin">Verſe 6.</note> 
+                  <hi>and without any diſpa<g ref="char:EOLhyphen"/>ragement at all, equall to God</hi> (as he tels vs a verſe before) <hi>He, humbled. Vbi, Maieſtatem p<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>amiſit; vt humilitatem illustraret.</hi> That diſ<g ref="char:EOLhyphen"/>courſe of His High Maieſtie, was but to ſet out, to giue a luſtre to His <hi>humilitie.</hi> For, for one of meane eſtate, to be <hi>humble,</hi> is no great
+<pb n="6" facs="tcp:291:5" rendition="simple:additions"/>praiſe: It were a fault, if he were not. But, in <hi>al<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>o nihil altum ſupere:</hi> For a King (as <hi>Dauid</hi>) to ſay,<note place="margin">2. Sam. 6.22.</note> 
+                  <hi>I will yet be more humble:</hi> For the King of Kings, for Him, to ſhew this great <hi>humili<g ref="char:EOLhyphen"/>tie;</hi> that is a <hi>Propter quod</hi> indeede. <hi>Humili<g ref="char:EOLhyphen"/>auit Ipſe.</hi>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="2"/> Then ſecondly; that <hi>Humiliauit Ipſe ſe. Ipſe ſe,</hi>
+                  <note place="margin">Se.</note> and not <hi>alius ipſum;</hi> that he was not brought to it by any other, but of his owne accord, <hi>He humbled himſelfe.</hi> There is a dif<g ref="char:EOLhyphen"/>ference betweene <hi>humilis,</hi> and <hi>humiliatus.</hi> One may be humbled, and yet not <hi>humble. Phara<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> was humbled,<note place="margin">Exod. 10.16.</note> brought downe by his ten plagues.<note place="margin">Matth. 27.32.</note> 
+                  <hi>Simeon</hi> of <hi>Cyrene, angariatus, to humble</hi> his necke vnder the Croſſe. This was, <hi>alius <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>pſos.</hi> But <hi>Ipſe ſe,</hi> is the true <hi>humili<g ref="char:EOLhyphen"/>tie.</hi> For then, it is <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>audabils vol<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>tate,</hi> not <hi>mi<g ref="char:EOLhyphen"/>ſerabili neceſsitate:</hi> or a willing minde; and that is, commendable not of force and con<g ref="char:EOLhyphen"/>ſtraine<g ref="char:punc">▪</g> for that, is miſerable. <hi>For this cauſe</hi> that <hi>Hee humbled himſelfe.</hi>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="3"/> And thirdly, <hi>Humiliauit ipſe ſe (Obediens)</hi> It was not <hi>Abſaloms humilitie,</hi>
+                  <note place="margin">Obediens.</note> in ſhew and complement<g ref="char:punc">▪</g> and his heart full of pride, diſobedience,<note place="margin">2. Sam. 15.5.</note> yea rebellion. (And yet it is
+<pb n="7" facs="tcp:291:5" rendition="simple:additions"/>a glory for <hi>humilitie,</hi> that euen proud men take a pride, to ſhrowd themſelues in her mantle: that pride weares <hi>humilities</hi> liuerie.) But, it is not <hi>humble</hi> courteſie, but <hi>humble O<g ref="char:EOLhyphen"/>bedience,</hi> that is the <hi>Propter quod.</hi> Till it come to that, many beare themſelues in tearmes and ſhew, low, <hi>ad humum;</hi> euen touch the ground. But come once thither, to <hi>obedi<g ref="char:EOLhyphen"/>ence;</hi> then, giue lawes they muſt, but obey none; make others obedient, (and ye will) but not-<hi>factus obediens,</hi> not made them<g ref="char:EOLhyphen"/>ſelues ſo. <hi>Chriſt</hi> was <hi>ſo made.</hi> And for <hi>this cauſe.</hi>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="4"/> And ſomething ſtrange it is, why <hi>Humi<g ref="char:EOLhyphen"/>liauit ipſe ſe Obediens,</hi> would not ſerue,<note place="margin">Factus.</note> and no more; but <hi>(factus),</hi> muſt be added. Some<g ref="char:EOLhyphen"/>what there was, in that. An <hi>Obedience</hi> there is, that commeth from the <hi>dictamen</hi> of na<g ref="char:EOLhyphen"/>turall reaſon: In ſome things wee ſo obey; we will doe it, becauſe our reaſon ſo moueth vs. That is, <hi>Obediens natus.</hi> But, ſome other there bee, wherein there is no other reaſon, to leade vs to doe it, but onely this, that it is enioyned vs by a lawfull <hi>Superior,</hi> and there<g ref="char:EOLhyphen"/>fore we doe it, and for no other cauſe. This
+<pb n="8" facs="tcp:291:6" rendition="simple:additions"/>is <hi>Obediens factus;</hi> and that in true proper termes, is the right <hi>obedience</hi> indeed. All, looke to the former; and very few obey thus.<note place="margin">Luke 2.5<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</note> But euen ſo <hi>obeyed Chriſt, &amp; erat ſub<g ref="char:EOLhyphen"/>ditus illis.</hi> And for <hi>this cauſe</hi> then, that He was <hi>factus Obediens.</hi>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="5"/> And <hi>Obediens factus, (vſque)</hi> is a fifth. For the very ſize,<note place="margin">Vſque.</note> the extent of our <hi>obedience</hi> is a matter conſiderable. For if we come to any,<note place="margin">Acts 26.28.</note> it is <hi>Agrippa's, in modico,</hi> in ſome pettie ſmall matter.<note place="margin">1. Sam. 15.9.</note> Or <hi>Sauls,</hi> in the <hi>refuſe of the ſpoiles</hi> little worth. And, that <hi>obedience</hi> is little worth, that is ſo ſhrunke vp. The drawing out, the <hi>vſque</hi> of it, is all in all. How farre <hi>obedient?</hi> vntill what? <hi>Vſque quò?</hi> Which very Extent, or <hi>vſque,</hi> is many times as much worth as the <hi>Obedience</hi> it ſelfe. This alſo will come into the <hi>Propter quod.</hi>
+               </p>
+               <p>Now, many <hi>Vſque's</hi> there bee, in this, of His.
+<list>
+                     <item>1. <hi>Vſque naturam hominis,</hi> Thither. His very humanitie had beene <hi>humilitie</hi> e<g ref="char:EOLhyphen"/>nough.</item>
+                     <item>2. <hi>Vſque formam Serui,</hi>
+                        <note place="margin">Verſe 7.</note> is more:</item>
+                  </list> How?<note place="margin">1. Sam. 25.41.</note> 
+                  <hi>Euen to waſh the feet of thy ſeruants,</hi> (ſaid <hi>Abigail</hi>) and tooke her ſelfe to be very <hi>humble</hi> in ſo ſaying.<note place="margin">Iohn 13.5.</note> Thither he came too.</p>
+               <p>
+                  <pb n="9" facs="tcp:291:6" rendition="simple:additions"/>
+                  <milestone type="tcpmilestone" unit="unspecified" n="6"/> What ſay yee to <hi>vſque mortem</hi> (the ſixth point) <hi>mortem?</hi>
+                  <note place="margin">Mortem.</note> that will ſtagger the beſt of vs. Wee loue <hi>Obedience</hi> in a whole skinne:<note place="margin">Iob 2.4.</note> 
+                  <hi>Vſque</hi> any thing, rather then that. And to (ſay troth) no reaſon in the world, <hi>obedience</hi> ſhould come to that.<note place="margin">Rom. 6.23.</note> 
+                  <hi>Death is the wages of ſinne,</hi> of diſobedience. <hi>Factus obediens?</hi> what, And <hi>factus reus</hi> too? Obedient, and yet put to death? Heauen and earth ſhould ring of it, if the caſe were ours. Well, euen thither came his <hi>obedience: Et, ne perderet obedientiam, perdidit vitam.</hi> And rather then to loſe his <hi>obedience,</hi> loſt his life. This is indeed, a great <hi>Propter quod.</hi>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="7"/> Enough now: For death is <hi>vltima linea,</hi> (wee ſay) Nay,<note place="margin">Mortem au<g ref="char:EOLhyphen"/>tem Crucis.</note> there is yet an <hi>Autem</hi> more behind, to make it vp full ſeuen. For, One death is worſe then another. And His, was <hi>Mortem autem,</hi> the worſt death of all: the death of malefactours: and, of the worſt ſort of malefactors, <hi>Mortem Crucis.</hi>
+               </p>
+               <p>Nay; if He muſt die, let him die, an ho<g ref="char:EOLhyphen"/>neſt, a faire death. Not ſo:<note place="margin">Sapient. 2.20.</note> nay <hi>Morte tur<g ref="char:EOLhyphen"/>piſsimâ,</hi> (ſaid they of it, that put him to it,)
+<pb n="10" facs="tcp:291:7" rendition="simple:additions"/>the fouleſt death of all other: <hi>vſ<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> mortem, mortem autem crucis.</hi>
+               </p>
+               <p>Died; and, ſo died. Euer the <hi>(So)</hi> the maner is more then the thing it ſelfe, in all of <hi>Chriſt.</hi> To be borne, <hi>(So)</hi> to bee borne, <hi>vſ<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> praeſepe,</hi>
+                  <note place="margin">Luke 2.7.</note> to the <hi>Cratch:</hi> To die, nay <hi>(So)</hi> to die, <hi>vſque crucem,</hi> to the <hi>Croſſe. Vſque naturam hominis; vſque formam Serui; vſ<g ref="char:EOLhyphen"/>que mortem malefici?</hi>
+                  <list>
+                     <item>1. So great a Perſon:</item>
+                     <item>2. Thus to <hi>humble:</hi>
+                     </item>
+                     <item>3. <hi>Humble</hi> His <hi>owne ſelfe:</hi>
+                     </item>
+                     <item>4. To bee <hi>obedient:</hi>
+                     </item>
+                     <item>5. To bee made <hi>obedient:</hi>
+                     </item>
+                     <item>6. <hi>obedient</hi> with an <hi>vſque,</hi> ſo farre;</item>
+                     <item>7 So farre, as to death:</item>
+                     <item>8 And to a <hi>death, ſo opprobrious:</hi>
+                     </item>
+                  </list> Theſe Extenſiues, and Intenſiues put together, will (I truſ) make vp a perfect <hi>Propter quod.</hi> And this, for <hi>humilitas claritatis meritum,</hi> (in the firſt verſe.)</p>
+               <p>NOw,<note place="margin">Verſe 9.</note> for <hi>Claritas humilitatis praemium,</hi> (in the reſt.) And, will ye obſerue how they anſwere one another? For <hi>humiliauit</hi> there, Heere is <hi>exaltauit:</hi> For <hi>Ipſe</hi> there; <hi>Deus,</hi> God heere: For <hi>Ipſe ſe, Deus ipſum. He humbled himſelfe; God exalted him.</hi> For
+<pb n="11" facs="tcp:291:7" rendition="simple:additions"/>
+                  <hi>humiliauit vſ<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan>,</hi> there: here, is <hi>exaltauit ſuper:</hi> For, <hi>factus obediens;</hi> Here <hi>factus Domi<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>.</hi> For <hi>mortem crucis,</hi> the death of the Croſſe there: Here, is <hi>the glory of God the Father.</hi>
+               </p>
+               <p>This <hi>exalting,</hi> we reduced to two. <hi>Of his perſon; Of his Name.</hi> Of his <hi>Perſon,</hi>
+                  <note place="margin">Super-exalta<g ref="char:EOLhyphen"/>uit Ipſum.</note> in <hi>ſuper<g ref="char:EOLhyphen"/>exaltauit ipſum:</hi> Of his <hi>Name,</hi> (in the reſt of the verſe.)</p>
+               <p>To begin, with His perſonall <hi>exaltation. S<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>per-exaltauit,</hi> is a decompound. There is, <hi>Ex,</hi> and <hi>Super,</hi> (both) in it. His <hi>exalting</hi> hath an <hi>Ex,</hi> whence, or out of what. His <hi>exalting</hi> hath a <hi>ſuper,</hi> whither or whereunto.</p>
+               <p>
+                  <hi>Ex,</hi> from whence?<note place="margin">Ex.</note> from the two very laſt wordes <hi>Mortem Crucis.</hi> His raiſing to life op<g ref="char:EOLhyphen"/>poſed to <hi>Mortem,</hi> the ſorrowes of <hi>death.</hi> The giuing of His <hi>Name;</hi> to <hi>Crucis,</hi> the ſhame of the <hi>Croſse.</hi> This dayes <hi>(Ex)</hi> was from <hi>death.</hi> His <hi>humiliauit,</hi> had beene <hi>ad h<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>um,</hi> to the ground. Nay further, into the ground; Nay further yet,<note place="margin">Epheſ. 4.9.</note> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> into the very loweſt parts of it. His <hi>exaltauit</hi> then, was from thence, from <hi>death;</hi> and not <hi>the g<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>es of death,</hi> (then, he was not in:<note place="margin">Pſal. 9.13.49.15.</note>) nor <hi>the
+<pb n="12" facs="tcp:291:8"/>iawes of death,</hi> (then he was not, quite down) but from <hi>inferiora,</hi>
+                  <note place="margin">Prou. 7.27.</note> and <hi>interiora,</hi> the lower<g ref="char:EOLhyphen"/>moſt, and innermoſt roomes of <hi>death.</hi> From vnder the <hi>Stone;</hi>
+                  <note place="margin">Matth. 28.<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</note> Thence: From the <hi>Dungeon,</hi>
+                  <note place="margin">Gene. 40.15.</note> with <hi>Ioſeph;</hi> From the <hi>bottome of the Danne,</hi>
+                  <note place="margin">Dan. 6.23.</note> with <hi>Daniel;</hi> From the <hi>Bellie of the Whale,</hi>
+                  <note place="margin">Iona<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 2.10.</note> with <hi>Ionas.</hi> (All three, Types of Him) There is His, <hi>Ex.</hi>
+               </p>
+               <p>Now then,<note place="margin">Super.</note> whither? From <hi>death,</hi> to life: From <hi>ſhame,</hi> to <hi>glory;</hi> From a <hi>death</hi> of <hi>ſhame,</hi> to a life of glory. From the <hi>forme of a ſeruant;</hi> in <hi>factus obediens,</hi> to the digni<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ie of a Soueraigne, in <hi>factus Dominus.</hi>
+               </p>
+               <p>But will ye marke againe? For, <hi>Non ficut delictum,</hi>
+                  <note place="margin">Rom. 5.15.</note> 
+                  <hi>fic donum</hi> (ſaith he, elſewhere.) So here, not as <hi>His humbling, ſo was his exalting:</hi> but more. That of His <hi>humbling;</hi> was diſ<g ref="char:EOLhyphen"/>patched in one verſe. This, of His <hi>exalting,</hi> hath no leſſe then three. So the amends is large, three to one.</p>
+               <p>But, that is not it I meane: But this: <hi>Su<g ref="char:EOLhyphen"/>per</hi> is not thither onely, but aboue and be<g ref="char:EOLhyphen"/>yond it. From <hi>death</hi> to life. Nay, <hi>Super;</hi> more then ſo:<note place="margin">Iohn 11.44.</note> Not <hi>Lazarus</hi> life, to die a<g ref="char:EOLhyphen"/>gaine, but life immortall: <hi>vt vitam habeat,
+<pb n="13" facs="tcp:291:8"/>&amp; abundantius habeat:</hi> That, <hi>abundantius,</hi>
+                  <note place="margin">Ioh. 10.10.</note> is <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>mortalitie. From ſhame to <hi>glory:</hi> onely that? Nay, <hi>Super, to the glory of the Father,</hi> that is) <hi>glory, that ſhall neuer fade,</hi>
+                  <note place="margin">1. Pet. 1.4.</note> as all here ſhall. So, downeward, it was but <hi>vſ<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan>,</hi> had his ſtint, ſo farre, and no farther: vp<g ref="char:EOLhyphen"/>ward now, it is, <hi>Super,</hi> no ſtint, but higher and higher ſtill.</p>
+               <p>This day is the <hi>feaſt of the firſt fruits.</hi>
+                  <note place="margin">Leuit. 23.10.</note> On it, He had no more, but the firſt fruits of His <hi>exalting.</hi> He was <hi>exalted,</hi>
+                  <note place="margin">Ion. 2.10.</note> but with <hi>Ionas ex<g ref="char:EOLhyphen"/>altation</hi> onely, from the lower parts, to the vpper parts of the earth. But wee ſhall fol<g ref="char:EOLhyphen"/>low Him higher, to the <hi>exaltation</hi> of <hi>Elias,</hi>
+                  <note place="margin">2. Reg. 2.11.</note> 
+                  <hi>Super,</hi> aboue the clouds: Nay, <hi>Super,</hi> aboue the Starres, aboue <hi>the Heauens, and the hea<g ref="char:EOLhyphen"/>uens of the heauens:</hi> till we haue brought Him, from <hi>de profundis,</hi> to <hi>in excelſis;</hi> from the loweſt parts of the earth, to the higheſt place in Heauen, euen to <hi>the right hand of God.</hi> And higher, we cannot goe.</p>
+               <p>Will yee obſerue yet once more, a kinde of <hi>Omen</hi> or preſage, of both theſe <hi>exaltings;</hi> and that, at the very time of <hi>His humiliation?</hi> For, euen that His <hi>humiliation</hi> was acted,
+<pb n="14" facs="tcp:291:9"/>after the manner of an <hi>exalting</hi> (though in a meere mockerie.) For, to all their diſ<g ref="char:EOLhyphen"/>graces, they added this, of ſcorne. They lift Him vp, vpon His Croſſe, for all the world,<note place="margin">Iudie. 16.25.</note> as the <hi>Philiſtines</hi> did <hi>Samſon,</hi> ſet Him aloft, <hi>betweene the two pillars,</hi> to make ſport at him. This was his <hi>exaltation.</hi> And they gaue Him <hi>a Name</hi> too,<note place="margin">Mar. 15.26.19.18.</note> 
+                  <hi>Pilates</hi> title o<g ref="char:EOLhyphen"/>uer His head; And <hi>bowed</hi> their <hi>Knees;</hi> And cried, <hi>Aue Rex</hi> (a kinde of <hi>Confeſsion.</hi>
+               </p>
+               <p>This, as they performed it, was <hi>grande ludibrium;</hi> but as God turned it, it was <hi>grande myſterium.</hi> For, to earneſt, God tur<g ref="char:EOLhyphen"/>ned both. A kinde of ſtrife, there ſeemed to be: the lower they, the higher God; the more odious they ſought to make Him; the more glorious, God: He <hi>Exalted</hi> His <hi>Perſon,</hi> in ſtead of the Croſſe, to His owne high throne of Maieſtie. And in ſtead of <hi>Pi<g ref="char:EOLhyphen"/>lates</hi> title, gaue Him a Title of true honour, aboue all the Titles in the world.</p>
+               <p>And this, for <hi>Super-exaltauit ipſum:</hi> And ſo, I paſſe from <hi>the exalting</hi> of His <hi>perſon,</hi> (the amends for <hi>Mortem.</hi>) And come to <hi>the exalting</hi> of His <hi>Name,</hi> (the amends for
+<pb n="15" facs="tcp:291:9"/>
+                  <hi>Crucis</hi>) (in the latter part of the ſame verſe.)</p>
+               <p>
+                  <hi>Hee gaue him a Name.</hi> For,<note place="margin">Dedit El No<g ref="char:EOLhyphen"/>men.</note> without <hi>a Name,</hi> what is <hi>exalting?</hi> What is His <hi>Na<g ref="char:EOLhyphen"/>tinitie</hi> without an <hi>Epiphanie?</hi> For, to thoſe two, may theſe two here well bee compated. His <hi>Reſurrection,</hi> is a very <hi>Natiuitie.</hi> To it, doeth <hi>S. Paul</hi> apply the verſe of the <hi>Pſalme H<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>diè genuite,</hi>
+                  <note place="margin">Acts. 13.33.</note> 
+                  <hi>Acts</hi> 13. And this <hi>Name-gi<g ref="char:EOLhyphen"/>ring,</hi> is as the <hi>Epiphanie;</hi> to make it apparant and knowen to the world. And indeed, they are things <hi>exalted</hi> or <hi>lift</hi> vp, but that they may bee in view, and notice taken of them? So that, they which be <hi>exalted,</hi> ſeeme not ſo to be, till their ſo being, be made pub<g ref="char:EOLhyphen"/>lique, and, there goe <hi>a Name</hi> of it abroad in the world.</p>
+               <p>And ſure, when men are ſo high, as higher they cannot bee, (as Kings) there is no other way to <hi>exalt them,</hi> left vs, but this; to ſpread abroad, to dilate their <hi>names.</hi> Which, euery noble generous ſpirit, had ra<g ref="char:EOLhyphen"/>ther haue, then any dignitie, though neuer ſo high. For, being in their dignities, how farre will they venture; euen to ieopard dig<g ref="char:EOLhyphen"/>nitie, life and all: and all, but to leaue a glo<g ref="char:EOLhyphen"/>rious
+<pb n="16" facs="tcp:291:10"/>
+                  <hi>Name</hi> behind them? That, To <hi>giue a Name,</hi> is euen to <hi>exalt</hi> His very <hi>exaltation</hi> it ſelfe; and to make him, that is at the higheſt, higher yet.</p>
+               <p>
+                  <note place="margin">Super omne Nomen.</note> 
+                  <hi>A Name be gaue him:</hi> what <hi>Name?</hi> not <hi>(inter)</hi> among the famous names on earth; but <hi>(Super) omne nomen,</hi> aboue them all. Here is, <hi>Super</hi> vpon <hi>Super:</hi> another <hi>Super</hi> to His <hi>Name,</hi> no leſſe then His <hi>Perſon.</hi> That, aboue all <hi>Perſons;</hi> and this, aboue all <hi>names</hi> whatſoeuer. And now, by this time, His <hi>Exaltation</hi> is complete, and not one <hi>(Super)</hi> to be added more.</p>
+               <p>This <hi>Name,</hi> is named in the verſe, and it is the <hi>Name</hi> of <hi>Ieſus.</hi> Of the <hi>giuing</hi> firſt, And then of the <hi>Super</hi> of it.</p>
+               <p>Of the <hi>giuing,</hi>
+                  <note place="margin">Dedit ei.</note> three doubts ariſe.
+<list>
+                     <item>1. How <hi>giuen</hi> Him, and others had it alſo?</item>
+                     <item>2. How <hi>giuen</hi> Him now, and Hee had it before, euen in the wombe of his Mother?</item>
+                     <item>3. How <hi>giuen</hi> Him of grace, and yet Hee deſerued it <hi>Propter quod.</hi>
+                     </item>
+                  </list>
+               </p>
+               <p>How is this <hi>Name</hi> ſaid to bee <hi>giuen</hi> Him,<note place="margin">Dedit ei.</note> (as ſome ſpeciall dignitie) and others had it beſide and before Him? <hi>Ieſus</hi> the Worthie,<milestone type="tcpmilestone" unit="unspecified" n="1"/> 
+                  <note place="margin">Others had it. Heb. 4.8.</note>
+                  <pb n="17" facs="tcp:291:10"/>the ſoune of <hi>Nun. Ieſus</hi> the high Prieſt,<note place="margin">Agg. 1.1.</note> the ſonne of <hi>Ioſedek,</hi> (to ſay nothing of <hi>Ieſus</hi> the ſonne of <hi>Sirach.</hi>) They had it (it is true) but not <hi>giuen</hi> them by God, as Hee,<note place="margin">Matth. 1.21.</note> by the mouth of the Angel, Gods deputie. But they, by men, had men to their Godfathers. As, now, we haue a Sect or Societie of <hi>Ieſus:</hi> but they <hi>gaue</hi> themſelues the <hi>Name:</hi> God neuer <hi>gaue</hi> it them. Hee <hi>gaue</hi> it heere, for <hi>humiliauit,</hi> a vertue they little regard: For hee that doeth but ſmell of it, is, <hi>eo ipſo,</hi> not meet to be of that Companie. Other maner ſpirits, they.</p>
+               <p>I haue before this, told you,<note place="margin">Serm. at Chriſtm, 1610.</note> of foure maine differences, betweene this <hi>Ieſus,</hi> and all others. This one now, ſhall ſerue for all. All thoſe <hi>Ieſu's,</hi> and euery one of them, had need of, and were glad, to <hi>lay hold of the skirts</hi> of this <hi>Ieſus,</hi>
+                  <note place="margin">Zach. 8.23.</note> to be ſaued by Him. (otherwiſe they had beene falſely ſo called) loſt men, all. And ſo, will bee wil<g ref="char:EOLhyphen"/>ling, to reſigne this <hi>Name</hi> to Him; that He, may (at leaſt) beare it, with a maine diffe<g ref="char:EOLhyphen"/>rence, from them all.<note place="margin">Dedit ei.</note>
+               </p>
+               <p>But what tell yee vs, of it now,<milestone type="tcpmilestone" unit="unspecified" n="2"/> 
+                  <note place="margin">He had it be<g ref="char:EOLhyphen"/>fore.</note> after the
+<pb n="18" facs="tcp:291:11"/>
+                  <hi>Reſurrection?</hi> doe not wee know, it was <hi>gi<g ref="char:EOLhyphen"/>uen</hi> Him, being yet in the wombe? It was ſo, but by a kind of anticipation. For, it neuer had the perfect verifying, the full Chriſtendome (as they ſay) till this day. Not yet full three dayes ſince, they vp<g ref="char:EOLhyphen"/>braided Him with it, <hi>Ieſus,</hi> a <hi>Sauiour,</hi> A wiſe <hi>Sauiour,</hi>
+                  <note place="margin">Matth. 27.42.</note> and <hi>cannot ſaue Himſelfe!</hi> For, Hee ſeemed to periſh then, to loſe His life, in their ſight: but, now, this day <hi>taking it againe,</hi> Hee ſhewed, Hee did but <hi>lay it downe,</hi>
+                  <note place="margin">Ioh. 10.18.</note> Hee loſt it not: Hee was now <hi>Ieſus</hi> indeed, able to ſaue himſelfe: and able <hi>to ſaue all thoſe,</hi>
+                  <note place="margin">Hebr. 5.9.</note> 
+                  <hi>that truſt Him with their ſalua<g ref="char:EOLhyphen"/>tion.</hi> So; it was neuer in kinde till now; but now, it was.</p>
+               <p>But,<note place="margin">Dedit ei.</note> if Hee <hi>gaue</hi> it Him, and <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> gaue it Him,<milestone type="tcpmilestone" unit="unspecified" n="3"/> 
+                  <note place="margin">He did merit it.</note> of grace: where is the merit then, the <hi>Propter quod</hi> wee ſpake of, what is be<g ref="char:EOLhyphen"/>come of that? Safe enough, for all this. That, which is otherwiſe due, it may bee ſo cheerefully parted with, as if it were a franke and free gift indeed. The Apoſtle, elſewhere, hath taught vs to ioyne <hi>debita</hi> and <hi>beneuolentia,</hi>
+                  <note place="margin">1. Cor. 7.3.</note> in one: They will ſtand to<g ref="char:EOLhyphen"/>gether well enough.</p>
+               <p>
+                  <pb n="19" facs="tcp:291:11"/>In many things, wee ſuffer ſlander by the Church of <hi>Rome:</hi> In this among ma<g ref="char:EOLhyphen"/>ny; as if wee pinched at <hi>Chriſts</hi> merit, and were loth, hee ſhould bee allowed Himſelfe to merite ought, becauſe of this <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, that ſoundeth all vpon grace. Wherein, it is well knowen, take the moſt that can bee made of it, and we ſay no other thing, then doe their owne Schoolemen. It is not <hi>gratia adoptionis,</hi> this; the grace of adoption, (as in vs) that is, heere ſpoken of: It is <hi>gratia vnionis,</hi> the grace of vnion, And that grace <hi>Chriſt</hi> had. For, ſeeing, in the humanitie of <hi>Christ,</hi> there was not, there could not bee, any poſsibilitie of merit, to deſerue the vni<g ref="char:EOLhyphen"/>ting it ſelfe, or the being aſſumed into the Godhead: To be ſo aſſumed, and ſo vnited, was that grace, we terme, the grace of vni<g ref="char:EOLhyphen"/>on. Other grace, we know none in <hi>Chriſt.</hi> But being once ſo vnited, there was in Him, to deſerue, and deſerue againe, and that, amply <hi>Propter quod,</hi> might then bee truely ſaid of of Him, euery way.</p>
+               <p>
+                  <note place="margin">Super omne. Aboue all names.</note>This, for the <hi>giuing.</hi> But now, how is this <hi>Name,</hi> ſaid to be <hi>aboue all names?</hi> what, aboue
+<pb n="20" facs="tcp:291:12"/>the <hi>Name of God?</hi> Wee may ſay, with the Apoſtle,<note place="margin">1. Cor. 15.27.</note> when hee ſaith, <hi>God did giue it Him,</hi> it is manifeſt, <hi>hee is excepted, that did giue it Him.</hi> But wee need not ſo ſay. For, this is one of Gods owne <hi>Names. I am</hi> (ſaith He) <hi>and beſide me,</hi>
+                  <note place="margin">Eſa. 43.11.</note> 
+                  <hi>there is no Sauiour.</hi>
+               </p>
+               <p>How is it then <hi>giuen</hi> Him? <hi>Accepit vt homo, quod habebat vt Deus.</hi> What, as God, Hee had; as Man, He receiued. With His nature. His <hi>Name;</hi> and the chiefe of all His <hi>Names,</hi> the <hi>Name</hi> of a <hi>Sauiour.</hi> For <hi>aboue all,</hi> it is: <hi>A<g ref="char:EOLhyphen"/>boue all,</hi> to Him; <hi>Aboue all,</hi> to vs.</p>
+               <p>
+                  <note place="margin">Aboue all to Him.</note>To Him: for though many Titles of the Deitie, ſound, and ſeeme, to be more glori<g ref="char:EOLhyphen"/>ous: Yet, He eſteemes them all, not like this: Why? For no other reaſon, but that, they had not, <hi>nos homines,</hi> and <hi>noſtram Sa<g ref="char:EOLhyphen"/>lutem,</hi> in them. No <hi>Name</hi> He ſets by, like that, wherein, with His <hi>glory,</hi> is ioyned, out ſafetie. And this, of all He made choyſe of, (as, to Him, <hi>aboue all</hi>) that wee might ac<g ref="char:EOLhyphen"/>cordingly eſteeme of Him, that eſteemes it <hi>aboue all,</hi> onely, for our ſakes.</p>
+               <p>
+                  <note place="margin">Aboue all to Vs.</note>But howſoeuer, to Him: To vs ſure, <hi>a<g ref="char:EOLhyphen"/>boue all.</hi> For no <hi>Name,</hi> doe we hold by,<note place="margin">Acts. 4.12.</note> 
+                  <hi>No
+<pb n="21" facs="tcp:291:12"/>name vnder heauen, giuen vs, whereby wee may be ſaued, but it.</hi> To vs, more worth it is, then all, yea, (I may ſay,) then the very name of God. For, <hi>God in Him reconcileth the world;</hi> without Him, is enemie to it,<note place="margin">2. Cor. 5.19.</note> and to vs: So, with this <hi>Name,</hi> there is comfort in the <hi>Name</hi> of God: without it, none at all. The <hi>Name</hi> (ſure) which we haue vſe of <hi>aboue all.</hi> For it is the <hi>Name,</hi> which, in the depth of all our diſtreſſe, by ſinne or by miſerie, we euen adiure Him by, <hi>vt rem no<g ref="char:EOLhyphen"/>minis impleat,</hi> that he make good His owne <hi>Name,</hi> ſhew, He beares it not for nought, and ſo, ſaue vs: That, He would neuer ſo remember our wretched ſinnes, as that thereby to forget His owne bleſſed <hi>Name:</hi> That <hi>Name</hi> ſpecially, which He of all other moſt eſteemeth: and ſo, of all other will leaſt forget. <hi>To Him</hi> then, and <hi>to vs,</hi> both; it is <hi>Nomen ſuper omne nomen.</hi> And, ſo let it be; euen <hi>Suprema lex, Salus:</hi> and <hi>ſupre<g ref="char:EOLhyphen"/>mum nomen, Ieſus.</hi> To ſaue, the higheſt Lawe: And the <hi>Name</hi> of a <hi>Sauiour,</hi> the Higheſt <hi>Name.</hi> Let it ſo be, let it euer ſtand Higheſt, and let no <hi>name</hi> whatſoeuer,
+<pb n="22" facs="tcp:291:13" rendition="simple:additions"/>get <hi>aboue it.</hi> And ſo, I come to the tenth verſe.</p>
+               <q>That at the Name of Ieſus, &amp;c.<note place="margin">Verſe 10.</note>
+               </q>
+               <p>
+                  <note place="margin">At the Name of Ieſus.</note>TO <hi>giue</hi> Him ſuch a <hi>Name,</hi> is one gift: To <hi>giue</hi> Him, that for ſuch a one, it ſhould be reputed and taken, is another: For, <hi>giuen</hi> it may be, on His part; and not ac<g ref="char:EOLhyphen"/>knowledged on ours. So that, this is a new degree.</p>
+               <p>That God, though He haue ſo <hi>exalted</hi> it, yet reckons it not <hi>exalted,</hi> vnleſſe we doe our parts alſo, vnleſſe our <hi>exaltation</hi> come to. At which words, comes in our duetie: The part, that concernes vs. Thus to eſteeme it <hi>Super omne nomen, aboue all:</hi> And in ſigne we ſo doe, to declare as much. And therein, He leaues vs not to our ſelues, but preſcribes the very manner of our declarati<g ref="char:EOLhyphen"/>on, how He will haue it: Namely, theſe two wayes. <hi>The Knee to bow to it; the tongue to confeſſe it.</hi>
+               </p>
+               <p>
+                  <note place="margin">Knee and Tongue.</note>Now, theſe are outward acts, both. So then: firſt we are to ſet downe this, for a ground; that <hi>the exalting</hi> of the ſoule within,
+<pb n="23" facs="tcp:291:13"/>is not enough. More is required by Him: more to be performed by vs. Hee will not haue the inward parts onely, and it skilles not for the outward members, though wee fauour our <hi>Knees,</hi> and locke vp our lippes. No: Mentall deuotion will not ſerue: He will haue, both corporall and vocall, to ex<g ref="char:EOLhyphen"/>preſſe it by.</p>
+               <p>Our body is to affoord her part, to His <hi>glory:</hi> And the parts of our body: And namely, theſe two, the <hi>Knee,</hi> and the <hi>Tongue.</hi> Not onely the vpper parts, the <hi>Tongue</hi> in our head: but euen the nether alſo, the <hi>Knee</hi> in our legge. The words be plaine, I ſee not how we can auoyd them.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="1"/> For the <hi>Knee,</hi> two things.
+<list>
+                     <item>1. He would haue it <hi>bow.</hi>
+                     </item>
+                     <item>2.<note place="margin">Knee bow.</note>He would haue it <hi>bow</hi> to His <hi>Name.</hi>
+                     </item>
+                  </list>
+                  <milestone type="tcpmilestone" unit="unspecified" n="2"/> Bow, firſt: For, what better way, or <milestone type="tcpmilestone" unit="unspecified" n="1"/> more proper, then by our <hi>humilitie</hi> to <hi>exalt</hi> Him, who for His <hi>humilitie</hi> was <hi>exalted?</hi> Or what way more fit, to expreſſe our <hi>humilitie</hi> by, then by this ſigne of humbleneſſe? For, a ſpeciall way it is of <hi>exalting,</hi> or making a thing high, by falling downe, and making our ſelues low before it. Then ſecondly,<milestone type="tcpmilestone" unit="unspecified" n="2"/>
+                  <pb n="24" facs="tcp:291:14" rendition="simple:additions"/>That God careth for our <hi>knees:</hi> wil be ſerued with them.<note place="margin">1. Reg. 19.18. Pſal. 95.6.</note> Negatiuely; He will not haue them <hi>bow to Baal.</hi> Poſitiuely, Hee wil haue them <hi>bow</hi> to Himſelfe. Wil ye beleeue Him, if He bind it with an oath? <hi>I haue ſworne</hi> (ſaith he) <hi>by my ſelfe that euery Knee ſhall bow to me. Eſa.</hi> 45.23. And wil ye make God for<g ref="char:EOLhyphen"/>ſworne? And it cannot be ſaid, this is Old Teſtament: For euen in the New, <hi>Rom.</hi> 14.11. Theſe very words are applied to <hi>Christ,</hi> as meant to be fulfilled in, and to Him.</p>
+               <p>But, this here in the Text, is more ſtrong: that, It is aſſigned Him, (this honour) as a part of His reward, for <hi>Mortem Crucis.</hi> And ſhall we rob Him, or take from Him the re<g ref="char:EOLhyphen"/>ward of His Paſſion?</p>
+               <p>We begin our <hi>Liturgie</hi> euery day, with the <hi>Pſalme</hi> (And we had it from the Primitiue Church, they did beginne theirs with the ſame.) Wherein wee inuite our ſelues to it: <hi>Come, Let Vs worſhip, and fall down, and kneele before the Lord our maker.</hi> Shall we euer ſay it, and neuer doe it? Is not this to mocke God?</p>
+               <p>
+                  <note n="†" place="margin">FLEXIS GENI<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>VS ORANTES. <hi>Reges. Dauid.</hi> Pſal. 95 6 <hi>Salomon.</hi> 1. King. 8 54. <hi>Ez<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ki<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>
+                     </hi> 
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. Chro. 29.30. <hi>Prophetae. Da<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>l.</hi> Dan. 6.10 <hi>Eſ<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>
+                     </hi> Eſr. 9.5. <hi>M<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>a</hi> Mic. 6.6. <hi>Christus ipſe.</hi> Luc 22.41. <hi>Apoſtoli. P<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>us.</hi> Act. 9.4. <hi>Paulus,</hi> Eph. 3.14 <hi>Iacobus. H<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>g<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ſip.</hi> 5 <hi>lib. apud. Hieron. S<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>ph<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>s.</hi> Act 7.60. <hi>Eccleſia. id<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan>, Ip<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> Pentec<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ſti.</hi> Act. 20.36.21.5.</note> They in the Scripture, They in the<note n="*" place="margin">Euſe. <hi>4.</hi> 
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.l. <hi>5</hi> 
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. <hi>5.</hi> Tertul. co<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>. Mar<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>. l. <hi>
+                        <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </hi> c. <hi>18.</hi> Decoron. <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>. Athan. in vita. A<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>on. Baſil. apud O<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>um. Naz or. <hi>2</hi> de fil<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#PDCC" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>. <hi>2.</hi> in c. <hi>2.</hi> ad Eph. A<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>g<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>. de <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>. pro. <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>. g<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>end. c. <hi>5.</hi> Theoph Alex. Paſch. <hi>2.</hi> Caſar. Aril bow. <hi>30.</hi>
+                  </note> Primitiue Church did ſo, did <hi>bow.</hi> And ve<g ref="char:EOLhyphen"/>rily,
+<pb n="25" facs="tcp:291:14"/>He wil not haue vs worſhip Him like <hi>E<g ref="char:EOLhyphen"/>lephants,</hi> as if we had no ioints in our <hi>Knees;</hi> He wil haue more honor of men, then of the pillars in the Church. He wil haue vs <hi>bow the knees.</hi> And let vs <hi>bow</hi> them in Gods Name.</p>
+               <p>
+                  <note place="margin">Bow, to His Name.</note>To <hi>bow the Knee,</hi> And to His <hi>Name,</hi> to <hi>bow it,</hi> For, This is another prerogatiue. He is <hi>exalted,</hi> to whoſe <hi>Perſon, Knees do bow:</hi> but He, to whoſe <hi>Name</hi> onely, much more. But the caſe, is here otherwiſe.<note place="margin">Acts. 1.9.</note> For His <hi>Per<g ref="char:EOLhyphen"/>ſon</hi> is <hi>taken vp out of our ſight:</hi>
+                  <note place="margin">Pſa. 16.2.</note> all wee <hi>can doe, will not reach vnto it.</hi> But, His <hi>Name,</hi> He hath left behinde to vs, that wee may ſhew by our reuerence and reſpect to it, how much we eſteeme Him, how true the Pſalme ſhall bee, <hi>Holy and reuerend is His Name.</hi>
+                  <note place="margin">Pſal. 111.9.</note>
+               </p>
+               <p>But if we haue much adoe, to get it <hi>bow</hi> at all: much more ſhall we haue to get it done to His <hi>Name.</hi> 1. There be, that do it not.<milestone type="tcpmilestone" unit="unspecified" n="1"/>
+               </p>
+               <p>What ſpeake I of not doing it? There bee, that, not onely forbeare to doe it them<g ref="char:EOLhyphen"/>ſelues, but put themſelues, to an euill occu<g ref="char:EOLhyphen"/>pation, to finde faults where none is, and caſt ſcruples into mens minds, by no meanes to doe it.</p>
+               <p>
+                  <pb n="26" facs="tcp:291:15"/>
+                  <milestone type="tcpmilestone" unit="unspecified" n="3"/> Not to doe it at His <hi>Name?</hi> Nay at the holy Myſteries themſelues, not to doe it: Where, His <hi>Name</hi> is (I am ſure,) and more then His <hi>Name,</hi> euen the body and blood of our <hi>Lord Ieſus Chriſt:</hi> And thoſe, not without His ſoule: Nor that, without His Deitie: Nor all theſe, without ineſtimable high benefits of grace, attending on them. And yet they,<note place="margin">Caſar. Arelat. bow <hi>30.</hi>
+                  </note> that would be glad and faine, a pardon for this life, or ſome other Patent, with all <hi>humilitie</hi> to receiue vpon their <hi>knees:</hi> This, ſo great, ſo high, ſo heauenly a gift, they ſtraine, and make dangerous, to <hi>bow their knees</hi> to receiue it: as if it were ſcarce worth ſo much. But, it hath euer bene the maner in <hi>Chriſts</hi> Church, whether we<note n="*" place="margin">
+                     <hi>Matth. 2.11.</hi> Chryſoſt. hom. ad pop. Antioch <hi>61.</hi> Ambroſ. in Pſ. <hi>98</hi> lib. <hi>3.6 1<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>.</hi> de Spir. S<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>o. August<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap> Pſ. <hi>22.</hi> Pſ. <hi>48.</hi> &amp; Ep. <hi>120,</hi> c <hi>27.</hi>
+                  </note> offer to Him, or receiue ought offered from Him, in this wiſe to doe it.</p>
+               <p>But to keepe vs to the <hi>Name:</hi> This is ſure, The words themſelues are ſo plaine, as they are able to conuince any mans conſci<g ref="char:EOLhyphen"/>ence: And there is no writer (not of the Ancient) on this place,<note place="margin">A<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>br<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſ Hexa. l. <hi>6<g ref="char:punc">▪</g> c. 9.</hi> Hi. <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> in Eſa <hi>45.</hi> Cyril in Eſa. l. <hi>4 O 3.</hi> Theodores in Phil. <hi>2.</hi>
+                  </note> that I can find, (ſaue he that turned all into Allegories) but literal<g ref="char:EOLhyphen"/>ly vnderſtands it, and likes well enough, we
+<pb n="27" facs="tcp:291:15" rendition="simple:additions"/>ſhould actually performe it.</p>
+               <p>Yet will yee ſee, what ſubtilties are taken vp, to ſhift this duetie?</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="1"/> All <hi>Knees</hi> are called for, and all haue not <hi>Knees.</hi> Heere are three rankes reckoned: and two of them haue none. What is that to vs? wee haue: To vs, it is properly ſpo<g ref="char:EOLhyphen"/>ken, and wee to looke to it. And if this were ought, that the ſpirits in Heauen and Hell haue no bodies, and ſo no <hi>Knees:</hi> Why, they haue no <hi>tongues</hi> neither proper<g ref="char:EOLhyphen"/>ly, and then by the ſame rule, take away <hi>comfeſsing</hi> too, and ſo doe neither.</p>
+               <p>But the Apoſtle, that in another place, giues the Angels <hi>tongues,</hi>
+                  <note place="margin">1. Cor. 13.1.</note> 
+                  <hi>(with the tongues of men and Angels)</hi> might aſwel in this place, giue them <hi>Knees:</hi> they haue one, as much as the other. And in both places, <hi>humanum dicit,</hi> hee ſpeakes to vs,<note place="margin">Rom. 6.19.</note> 
+                  <hi>after the maner of men:</hi> that we by our owne language, might conceiue, what they doe. For, ſure it is, the ſpirits of both kinds, as they doe yeeld reuerence, ſo they haue their wayes, and meanes, to expreſſe it, by ſomewhat <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> to the <hi>Knee.</hi> They doe it their way: wee
+<pb n="28" facs="tcp:291:16"/>to doe it ours. And this is ours: let vs looke to our owne then, and not buſie our braines about theirs. But for vs, and for our ſakes, they are diuers times expreſſed in the <hi>Re<g ref="char:EOLhyphen"/>uelation,</hi>
+                  <note place="margin">Reuel. 4.10.5.8.14.7.11.</note> euen doing thus, falling downe be<g ref="char:EOLhyphen"/>fore Him.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="2"/> Secondly, why to this <hi>Name,</hi> more then to the <hi>Name</hi> of <hi>Chriſt?</hi>
+                  <note place="margin">The Name of Ieſus.</note> There want not rea<g ref="char:EOLhyphen"/>ſons why.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="1"/>
+                  <hi>Chriſt,</hi> is not, cannot be, the <hi>name</hi> of God, God cannot bee anointed. But <hi>Ieſus</hi> is the <hi>Name</hi> of God, and the chiefe <hi>Name</hi> of God (as we haue heard.)</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="2"/> The name <hi>Chriſt,</hi> is communicated, by Him to others, namely, to Princes: So is not <hi>Ieſus:</hi>
+                  <note place="margin">Eſa. 43.11.</note> that is proper. <hi>Ego ſum, &amp; praeter me non eſt alius.</hi> And euer, that which is proper, is aboue that which is holden in common.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="3"/>
+                  <hi>Christ</hi> is anointed, to what end? to be our Sauiour. That is the end, then. And euer, the end is aboue the meanes, euer the name of health, aboue the name of any medicine.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="4"/> But, when wee finde expreſſely in the verſe, <hi>this Name is exalted aboue all names,</hi>
+                  <pb n="29" facs="tcp:291:16"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd this act, limited to it, in direct wordes; <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>d ſo, this <hi>name</hi> aboue them, in this very peculiar: Why ſeeke we any further?</p>
+               <p>Thirdly. What? to the two ſyllables,<milestone type="tcpmilestone" unit="unspecified" n="3"/> or <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the ſound of them? What needes this? Who ſpeakes of ſound or ſyllables? The Text ſaith, doe it to the <hi>Name.</hi> The <hi>Name</hi> is not the ſound, but the ſenſe. The cauti<g ref="char:EOLhyphen"/>on is eaſie then, doe it to the ſenſe; haue minde on Him, that is named, and doe <hi>His Name</hi> the honour, and ſpare not.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="4"/> Fourthly. But it cannot be denied, but there hath ſuperſtition beene vſed in it. Suppoſe there hath. And almoſt, in what not? In hearing of Sermons now, is there not ſuperſtition in a great many? What ſhall we doe then? Lay them downe? aban<g ref="char:EOLhyphen"/>don hearing, as we doe <hi>Kneeling?</hi> I trowe, not; but remooue the ſuperſtition, and re<g ref="char:EOLhyphen"/>taine them ſtill. Doe but euen ſo here, and all is at an end.</p>
+               <p>Indeed, if it were a taken-vp worſhip, or ſome humane iniunction; it might perhaps, be drawen within the caſe of the <hi>brazen Ser<g ref="char:EOLhyphen"/>pent.</hi>
+                  <note place="margin">2. Reg. 18.4.</note> But, being thus directly ſet downe by
+<pb n="30" facs="tcp:291:17" rendition="simple:additions"/>God himſelfe; in vs, there may bee ſuper<g ref="char:EOLhyphen"/>ſtition; in it, there can be none. And, if it bee in vs, wee are to mend our ſelues; but not to ſtirre the act, which is of Gods owne preſcribing. It was neuer heard in Diuini<g ref="char:EOLhyphen"/>tie, that euer ſuperſtition could aboliſh a duetie of the Text.</p>
+               <p>That, we ſet our ſelues to driue away ſu<g ref="char:EOLhyphen"/>perſtition, it is well: But it will be well too, that we ſo driue it away, as we driue not, all reuerent regard and decencie away with it alſo. And are we not well toward it? Wee haue driuen it from our head: for, wee keepe on, of all hands, And from out <hi>Knees;</hi> for, <hi>Kneele</hi> we may not: we vſe not, (I am ſure.) Sure, heed would be taken, that by taking heed, wee prooue not ſuper<g ref="char:EOLhyphen"/>ſtitious: wee ſlippe not into the other ex<g ref="char:EOLhyphen"/>treame, before wee be aware: Which, of the two extreames, Religion worſe endu<g ref="char:EOLhyphen"/>reth; as more oppoſite vnto it. For, beleeue this, as it may bee ſuperſtitiouſly vſed; ſo it may irreligiouſly be neglected alſo.</p>
+               <p>Looke to the Text then, and let no man perſwade you, but that God requireth a re<g ref="char:EOLhyphen"/>uerent
+<pb n="31" facs="tcp:291:17" rendition="simple:additions"/>cariage, euen of the body it ſelfe: And namely, this ſeruice of the <hi>Knee;</hi> And that, to His Sonnes <hi>Name.</hi> Ye ſhall not diſ<g ref="char:EOLhyphen"/>pleaſe Him by it, feare not: Feare this ra<g ref="char:EOLhyphen"/>ther, for the <hi>Knee,</hi> if it will not <hi>bow;</hi> that it ſhall be ſtricken with ſomewhat, that it ſhall not be able to <hi>bow.</hi> And for the <hi>Name,</hi> that they, that will doe no honour to it; when time of neede comes, ſhall receiue no comfort by it. And ſo I leaue this point.</p>
+               <p>
+                  <note place="margin">The tongue.</note>For, the <hi>Knee</hi> is not all: Hee further re<g ref="char:EOLhyphen"/>quires ſomewhat, from the <hi>Tongue.</hi> And rea<g ref="char:EOLhyphen"/>ſon: That member, of all other,<note place="margin">Pſal. 30.12.57.8.</note> the <hi>Pſalmiſt</hi> calls our <hi>glory:</hi> a peculiar wee haue, more then the beaſts: They, will be taught to <hi>bow,</hi> and bend their ioynts: Wee haue <hi>Tongues</hi> beſides, to do ſomething more, then they. And indeed, the <hi>Knee</hi> is but a dumbe acknowledgement, doeth but ſignifie <hi>im<g ref="char:EOLhyphen"/>plicitè:</hi> but, a vocall <hi>confeſsion,</hi> that doeth vt<g ref="char:EOLhyphen"/>ter our minde plainely. And ſo, is looked for, at our hands.</p>
+               <p>
+                  <note place="margin">To confeſſe.</note>This hee calls, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> Three things are in it. Firſt, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>: ſpeake wee muſt, ſay ſome<g ref="char:EOLhyphen"/>what. And ſecondly, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>: doe it together, not,
+<pb n="32" facs="tcp:291:18" rendition="simple:additions"/>ſome ſpeake, and ſome ſit mute. And third<g ref="char:EOLhyphen"/>ly, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>: ſpeake out, not whiſpering, or be<g ref="char:EOLhyphen"/>tweene the teeth; but clearely and audibly. And this is <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. And it was the praiſe of the <hi>Primitiue</hi> Church, this, that ioyntly they did it, and alowd: that their <hi>Amen,</hi> (as S. <hi>Hierome</hi> ſaith) was like a clap of thun<g ref="char:EOLhyphen"/>der; And their <hi>Alleluia,</hi> as the roaring of the Sea: And no praiſe it is to vs; who, as our ioynts are ſtiffe, to <hi>bow;</hi> ſo our voyces, are hoarce to <hi>confeſſe.</hi> We can neither ſee the former, nor ſcarce heare the latter; as if, (there beeing but two dueties in the Text) we meant to ſuppreſſe them both.</p>
+               <p>
+                  <note place="margin">Knee firſt, and then Tongue.</note>The <hi>Knee,</hi> and the <hi>Tongue:</hi> Why the <hi>Knee</hi> firſt? why begins he there? They be mar<g ref="char:EOLhyphen"/>ſhalled right. For, hauing, by our <hi>Knee bowed,</hi> put our ſelues in minde of due re<g ref="char:EOLhyphen"/>gard of Him in feare and reuerence; wee are then the fitter to ſpeake of Him, and to Him, with that reſpect is meet: And, not bee ſo homely with Him, as in their geſture and ſpeech both, ſome are: as if they were haile fellow, euen familiar with God. And all (forſooth) as they call it, to caſt out <hi>the
+<pb n="33" facs="tcp:291:18"/>ſpirit of bondage.</hi> From a heart poſſeſſed with the humble feare of God, from ſuch a heart, <hi>Confeſsion</hi> is euer moſt kindly: Faith being, as the heart; and feare being as the kings; (ſo the Fathers compare them:) It will get an heate, and an ouer-heate, (our ſaith;) if by feare, as coole ayre, it be not tempered: But, faith and feare together, make the bleſſed mixture.</p>
+               <p>
+                  <note place="margin">Euery Knee.</note>The <hi>Tongue,</hi> and <hi>euery Tongue;</hi> as the <hi>Knee,</hi> and <hi>euery Knee,</hi> they to <hi>bow</hi> all,<note place="margin">Euery Tongue.</note> and theſe all to <hi>confeſſe.</hi> But for all that, not all alike. They,<milestone type="tcpmilestone" unit="unspecified" n="1"/> 
+                  <hi>in heauen cast downe their crownes,</hi>
+                  <note place="margin">Reuel. 4.10.</note> 
+                  <hi>and fall downe</hi> themſelues of their owne accord: And <hi>confeſſe</hi> Him, ſinging,<note place="margin">Luc. 2.14.</note> a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> at His birth,<note place="margin">Reuel. 15.3.4.8.5.9.</note> and in the <hi>Reuelation</hi> di<g ref="char:EOLhyphen"/>uers times. They, <hi>vnder the earth</hi> doe it too, but not <hi>vltrò,</hi> are throwen downe,<milestone type="tcpmilestone" unit="unspecified" n="2"/> and euen made his <hi>footſtoole.</hi> So;<note place="margin">Pſal. 110.1.</note> downe they goe, though ſore againſt their wills: And <hi>confeſse</hi> Him too, though <hi>roaring,</hi>
+                  <note place="margin">Mark. 9.26.</note> and as it were vpon the racke. They, on <hi>Earth,</hi>
+                  <milestone type="tcpmilestone" unit="unspecified" n="3"/> (as in the midſt,) partake of both. The bet<g ref="char:EOLhyphen"/>ter ſort, with the <hi>Angels,</hi> get them to their <hi>Knees,</hi> gladly; and cheerefully <hi>confeſſe Him:</hi>
+                  <pb n="34" facs="tcp:291:19" rendition="simple:additions"/>The reſt, (as Infidels, and ſome Chriſtians little better,<note place="margin">Iohn 18.6.</note>) are <hi>forced to fall backeward,</hi> and made, in the end to crie, <hi>Viciſti Ga<g ref="char:EOLhyphen"/>lilaee;</hi>
+                  <note place="margin">Reuel. 16.10.</note> though they <hi>gnaw their Tongues</hi> when they haue done.</p>
+               <p>So, we ſee our lot: One way, or other, we ſhall come to it, all: if not now, <hi>in die illo:</hi> Which is the reaſon, that <hi>Rom.</hi> 14.11. the Apoſtle applieth this place in <hi>Eſay,</hi> to <hi>Chriſts</hi> ſitting in Iudgement, at the latter day. <hi>Exal<g ref="char:EOLhyphen"/>ted,</hi> He ſhalbe, with our good wills; or whe<g ref="char:EOLhyphen"/>ther we wil or no. Either fall on our <hi>Knees</hi> now; or bee caſt flat on our faces then: Ei<g ref="char:EOLhyphen"/>ther <hi>confeſse</hi> Him <hi>Cantando,</hi> with Saints and Angels, or <hi>vlulando,</hi> with deuils and dam<g ref="char:EOLhyphen"/>ned ſpirits. For the Father will bee <hi>glorified</hi> in the Sonne, by the glorious <hi>Confeſsion,</hi> of them that yeeld; or the glorious confuſion, of them that ſtand out.</p>
+               <p>
+                  <note place="margin">Euery Tongue.</note>The <hi>Tongue,</hi> and <hi>euery Tongue:</hi> that is, euery Speach, Dialect, Idiome Language, in the world ſtand charged with this <hi>Con<g ref="char:EOLhyphen"/>feſsion. Omnis ſpiritus,</hi>
+                  <note place="margin">Pſal 150.<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </note> euery ſpirit to giue breath; and <hi>Omnis Lingua,</hi> euery <hi>Tongue,</hi> to be as a Trumpet, to ſound it forth. And,
+<pb n="35" facs="tcp:291:19"/>where are they then, that denie any <hi>Tongue</hi> the facultie heere graunted; Or barre any of them the duetie heere enioyned? That locke vp the publique <hi>Confeſsion</hi> (the chiefe of all other) in ſome one <hi>Tongue</hi> or two, and ſend foorth their <hi>Superſedeas</hi> to all the reſt. No, His Title here, hath more <hi>Tongues</hi> then <hi>Pilat's</hi> on the Croſſe: That, had but three; this, hath euery <hi>Tongue,</hi> what, where, whoſe ſoeuer, none except. A <hi>Praeludium</hi> whereof, was in the <hi>Tongues</hi> ſent from Hea<g ref="char:EOLhyphen"/>uen, whereby, euery Nation vnder <hi>Hea<g ref="char:EOLhyphen"/>uen, heard,</hi>
+                  <note place="margin">Acts 2.6.</note> 
+                  <hi>each in their owne Tongue ſpo<g ref="char:EOLhyphen"/>ken, Magnalia Dei,</hi> the glad tidings of the Goſpel.</p>
+               <p>
+                  <note place="margin">Confeſſe that Ieſus Chriſt is the Lord.</note>But, though thus many <hi>Tongues,</hi> yet one <hi>Confeſsion.</hi> Euen this: that <hi>Ieſus Christ is the Lord.</hi> And, a bleſſed <hi>Confeſsion</hi> it is (this) that <hi>Ieſus</hi> (that is) a <hi>Sauiour,</hi> that He, that ſuch a one, is the <hi>Lord:</hi> that not a fleecer, or a flaier, but a <hi>Sauiour,</hi> hath the place: 2. That <hi>Christ,</hi> (that is) one which ſaueth, and cu<g ref="char:EOLhyphen"/>reth <hi>vnctione, non punctione,</hi> with anointing, not with ſearing or pricking, that wee ac<g ref="char:EOLhyphen"/>knowledge Him, to be the <hi>Lord. Lord:</hi> be<g ref="char:EOLhyphen"/>fore,
+<pb n="36" facs="tcp:291:20"/>by that He is <hi>Sonne:</hi> And now <hi>Lord</hi> againe, by vertue or His <hi>Propter quod.</hi>
+               </p>
+               <p>
+                  <hi>Lord,</hi> whereof? Nay, not qualified, of ſuch, or ſuch a Place, Baronie, Countie, Seg<g ref="char:EOLhyphen"/>niorie, but <hi>Lord in abstracto.</hi> But, it we will qualifie Him, wee may. <hi>Lord</hi> of theſe three rankes of <hi>Confeſſors</hi> (here in the Verſe) and of thoſe three places and Regions, that contein them:
+<list>
+                     <item>1. <hi>Lord of Heanen,</hi> He gaue <hi>the Keyes of it:</hi>
+                     </item>
+                     <item>2. <hi>Lord of Earth:</hi>
+                        <note place="margin">Matt. 16.19.</note> Hee <hi>hath the Key of Dauid,</hi>
+                        <note place="margin">Reuel. 3.7.</note> (and, if of His, of euery King<g ref="char:EOLhyphen"/>dome elſe:)</item>
+                     <item>3. <hi>Lord of Hell,</hi> for, lo, <hi>the Keyes of Hell and of Death, Apoc.</hi> 1.18.</item>
+                  </list> 
+                  <hi>Of Death,</hi> to vnlocke the graues: <hi>Of Hell, to locke vp the old Dragon,</hi>
+                  <note place="margin">Reuel. 20.3<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </note> and his crew, <hi>into the bottomleſſe pit.</hi> A great <hi>Lord:</hi> For, whither ſhall one goe, to get out of His dominion?</p>
+               <p>Well, if it be, but to <hi>confeſſe</hi> this, that is no great matter; we wil not ſticke with Him; who cannot ſay, <hi>Ieſus Chriſt is the Lord?</hi> That <hi>can no man</hi> (ſaith the Apoſtle) (<hi>ſay it,</hi>
+                  <note place="margin">1. Cor. 12.3.</note> as it ſhould be ſaid,) <hi>but by the holy Ghoſt.</hi> For, <hi>confeſsing Him Lord,</hi> we <hi>confeſſe</hi> more things by Him, then one. For, two things goe to it.
+<list>
+                     <item>1. S. <hi>Peter</hi> giuer is one; 2. S. <hi>Paul,</hi> the other.
+<pb n="37" facs="tcp:291:20"/>
+                        <hi>Domine ſalua, pereo,</hi> ſaith S. <hi>Peter. Saue Lord,</hi>
+                        <note place="margin">Matth. 14.30.</note> 
+                        <hi>ſinke:</hi> A <hi>Lord</hi> to ſaue.</item>
+                     <item>2. <hi>Domine quid me vis <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>cere?</hi>
+                        <note place="margin">Acts. 9.6.</note> ſaith S. <hi>Paul.</hi>
+                     </item>
+                  </list>
+                  <hi>Lord what ſeruice woul<g ref="char:EOLhyphen"/>deſt thou I ſhould doe?</hi> A <hi>Lord</hi> to ſerue.</p>
+               <p>Saint <hi>Peters,</hi> we like well; to ſuccour and ſaue vs when wee are in any danger: He ſhall heare of vs, then. But Saint <hi>Pauls quid me vis facere?</hi> when it comes to that, then our <hi>confeſsion</hi> fumbles, and ſtickes in our teeth. Nay then,<note place="margin">Pſal. 12.4.</note> 
+                  <hi>Quis est Dominus noster?</hi> we haue no <hi>Lord</hi> (we) then. So, wee play fuſt and looſe, with our <hi>confeſsion;</hi> faſt, at ſuccour: looſe, at ſeruice; in, at one; out, at the other?</p>
+               <p>But what ſpeake I of doing His wil? when, if Hee doe not ours, in each reſpect; if, wee haue not this or that when wee would: wee fall from <hi>confeſsing,</hi> and fall to murmuring. And it fareth with vs, not as if He were <hi>Lord,</hi> and we to doe His will: but as if, wee (in<g ref="char:EOLhyphen"/>deede) were the <hi>Lords,</hi> and He to doe ours: As if, there were nothing betweene vs and Him; but He, to doe our turnes, and then <hi>Tu autem Domine,</hi> His Lordſhip were ex<g ref="char:EOLhyphen"/>pired and at an end.</p>
+               <p>
+                  <pb n="38" facs="tcp:291:21"/>Vpon the point, thus it is: wee <hi>confeſſe</hi> it, the wrong way; the <hi>Lord to bee Ieſus:</hi> but not, <hi>Ieſus</hi> to be the <hi>Lord. O Lord</hi> be <hi>Ie<g ref="char:EOLhyphen"/>ſus:</hi> but not, <hi>O Ieſus</hi> be <hi>Lord. O Lord</hi> be <hi>Ie<g ref="char:EOLhyphen"/>ſus</hi> to ſaue vs: but not, <hi>O Ieſus</hi> be <hi>Lord,</hi> to command vs. So that, all our <hi>humiliauit</hi> ſtill, is without <hi>factus obediens.</hi>
+               </p>
+               <p>Ye ſee then, it is worth the while, to <hi>con<g ref="char:EOLhyphen"/>feſſe</hi> this, as it ſhould bee <hi>confeſſed.</hi> In this wiſe, none can doe it, but <hi>by the Holy Ghoſt.</hi> Otherwiſe, for an <hi>Oretenus</hi> onely, our owne <hi>ghoſt</hi> will ſerue well enough. But that, is not it. <hi>Quid me vis facere?</hi> is it, that makes the <hi>Lord.</hi> He tels vs ſo Himſelfe, and with a kind of admiration, that any ſhould thinke o<g ref="char:EOLhyphen"/>therwiſe. <hi>How call ye me Lord</hi> (ſaith He) <hi>and doe not as I will you?</hi>
+                  <note place="margin">Luke 6.46.</note> As much to ſay, as, It is to no purpoſe,<note place="margin">Matth. 7.21.</note> though you ſay <hi>Domine, Domine,</hi> double it, and treble it too, it will goe for no <hi>confeſsion:</hi>
+                  <note place="margin">Tit. 1.16.</note> if, a <hi>factis negant</hi> come in the necke of it: if, Saint <hi>Pauls Quid me vis facere?</hi> be left out.</p>
+               <p>
+                  <note place="margin">Confeſſe to the glory of God the Fa<g ref="char:EOLhyphen"/>ther.</note>And this, is yet more plaine, by the laſt words of all, Namely, that this <hi>confeſsion</hi> is ſo to be made, as it redound <hi>to the glory of
+<pb n="39" facs="tcp:291:21"/>God the Father.</hi> Whoſe great <hi>glory,</hi> it is, that His ſonne is <hi>Lord</hi> of ſuch ſeruants: That men ſhall ſay, See what ſeruants He hath! how ful of reuerence to His <hi>Name,</hi> how free, how forward to doe His wil. Herein is His <hi>Name</hi> much magnified. As on the other ſide, it muſt needes bee <hi>euill ſpoken of,</hi>
+                  <note place="margin">Rom. 2.24.</note> and that <hi>among the very heathen,</hi> when, not a <hi>Knee,</hi> got to <hi>bow<g ref="char:punc">▪</g>
+                  </hi> when this ſyllable <hi>(Lord)</hi> comes out of our mouth, but no, <hi>Quid me vis facere?</hi> to follow it. When they ſee, how vnſeruicelike, our ſeruice is; how rude, our behauiour toward Him, and His <hi>Name,</hi> whom, we terme <hi>Lord</hi> indeed; but vſe Him, nothing ſo: But, come hither into His pre<g ref="char:EOLhyphen"/>ſence, and carie our ſelues here, for all the world, as the fellow did before <hi>Augustus,</hi> of whom, <hi>Mecaenas</hi> well ſaid: <hi>Hic homo eru<g ref="char:EOLhyphen"/>beſcit timere Caeſarem.</hi> And, ſo we, as if we were aſhamed, to ſeeme to beare any reue<g ref="char:EOLhyphen"/>rence, at all, to Him, or His <hi>Name.</hi> It would not be thus. I am priuie, there is no one thing, doth more alien thoſe, that of a ſim<g ref="char:EOLhyphen"/>ple minde refuſe the Church, then this; that they ſee ſo vnſeemely behauiour, ſo
+<pb n="40" facs="tcp:291:22"/>ſmall reuerence ſhewed this way. But ſure, the Apoſtle tels vs, our cariage there, ſhould be ſuch, ſo decent, as if a ſtranger, or vnbe<g ref="char:EOLhyphen"/>leeuer ſhould come into our aſſemblies, the very reuerence He there ſeeth, ſhould make him fall downe,<note place="margin">1. Cor. 14.25.</note> and ſay, <hi>Verily God is among vs;</hi> to ſee vs, ſo reſpectiuely beare our ſelues; in the manner of our worſhip.</p>
+               <p>
+                  <note place="margin">IESVS is the Lord to the glory of God the Fa<g ref="char:EOLhyphen"/>ther.</note>This <hi>Confeſsion</hi> that <hi>Ieſus is the Lord,</hi> is to be, <hi>to the glory of God the Father:</hi> So we take it one way. Or, this <hi>Confeſsion</hi> is to be, <hi>that Ie<g ref="char:EOLhyphen"/>ſus is the Lord to the glory of God the Father:</hi> ſo another way. And both wel. To <hi>confeſse:</hi> that <hi>He is the Lord,</hi> that all His Lordſhip is, not to His owne <hi>glory;</hi> but to <hi>His Fathers.</hi> Thinke not then, that <hi>Gloria filio,</hi> ſhall abate ought of <hi>Gloria Patrj.</hi> The <hi>Sonne</hi> is <hi>Lord, to the glo<g ref="char:EOLhyphen"/>ry of His Father,</hi> and not otherwiſe. Let that feare then bee farre from vs, that in <hi>exalting</hi> the Sonne, we ſhall in the leaſt minute eclipſe the <hi>glory of his Father.</hi> Here is no feare of emulation, that it will proue the caſe, of <hi>Iupi<g ref="char:EOLhyphen"/>ter</hi> and <hi>Saturne.</hi> No, So bleſſed is the ac<g ref="char:EOLhyphen"/>cord of this <hi>Father,</hi> and this <hi>Sonne,</hi> as the <hi>Fa<g ref="char:EOLhyphen"/>ther</hi> thinketh it ſome blemiſh to <hi>His glory,</hi> if
+<pb n="41" facs="tcp:291:22"/>ſo profound <hi>humilitie,</hi> ſo complete <hi>obedience,</hi> He had not ſeene highly rewarded, with <hi>Su<g ref="char:EOLhyphen"/>per</hi> vpon <hi>Super.</hi> And the ſonne, will admit of no <hi>glory,</hi> that ſhall impaire His <hi>Fathers</hi> in the leaſt degree: For loe, <hi>Hee is Lord to the glory of God his Father.</hi> This is the end of His (of <hi>Christs;</hi>) And the ſame may be the end of all <hi>Exaltations;</hi> that a <hi>Sauiour</hi> euer may be <hi>Lord,</hi> hold that place: And hold it, and be <hi>Lord,</hi> not to His owne, but <hi>to the Glo<g ref="char:EOLhyphen"/>rie of God,</hi> euen <hi>God the Father.</hi>
+               </p>
+               <p>
+                  <note place="margin">The Con<g ref="char:EOLhyphen"/>cluſion.</note>THe end of all: And, wee muſt needs know and take that, with vs; for which, all this here is brought: And it is a Leſſon; euen, His <hi>Diſcite à me;</hi> and it is a Paterne;<note place="margin">Matth. 11.29.</note> euen, His <hi>Exemplum dedi vobis,</hi>
+                  <note place="margin">Iohn 13.15.</note> to commend vnto vs, the vertue of the Text; the <hi>Propter quod</hi> of the Feaſt; euen <hi>Humilitie: Hoc erit ſignum,</hi> it is His ſigne at <hi>Christmas:</hi>
+                  <note place="margin">Luke 2.12.</note> As His ſigne then, ſo His <hi>Propter quod</hi> now, at <hi>Ea<g ref="char:EOLhyphen"/>ſter.</hi> So, the vertue of both Feaſts: I will offer you but 3. ſhort points touching it.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="1"/> It is no humble man is ſet before vs here, it is the Sonne of God, and Himſelfe God:<note place="margin">Humiliauit.</note> 
+                  <hi>Et quomodo non humiliatur homo,</hi>
+                  <note place="margin">Chriſts Per<g ref="char:EOLhyphen"/>ſon.</note> 
+                  <hi>coram humili
+<pb n="42" facs="tcp:291:23"/>Deo?</hi> How is not the Sonne of man <hi>humble,</hi> and the Sonne of God is? Euen for Him, to loue it; for His very <hi>Perſon.</hi>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="2"/> And, in this vertue, He is not barely ſet out to vs,<note place="margin">Worke.</note> but in it, and by it, bringing to paſſe the worke of our Redemption: Which, cannot but extraordinarily commend this vertue to vs; in that it hath pleaſed God, to doe more for vs, in this <hi>His Humilitie,</hi> then euer he did in all His Maieſtie: euen, to ſaue and redeeme vs by it.<note place="margin">Iohn 10.38.14.11.</note> To loue it, then; <hi>if not for Him, yet for the workes ſake.</hi>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="3"/> But ſpecially, (which is the third) for the <hi>Propter quod,</hi>
+                  <note place="margin">Reward.</note> in the Text: if not for the worke, yet for the Rewards ſake. That, as <hi>Chriſt,</hi> was no looſer by it, no more ſhall we: For, all this <hi>Glory</hi> here, the way to it, is, by the firſt Verſe. <hi>Humiliauit,</hi> is the beginning; and the end of it is <hi>Exalting.</hi> That, the mo<g ref="char:EOLhyphen"/>ther; this, the daughter: all riſeth from <hi>Hu<g ref="char:EOLhyphen"/>miliauit ipſe ſe.</hi>
+                  <note place="margin">Iames 4.10.</note> 
+                  <hi>Humiliamini ergo,</hi> ſaith <hi>S. Iames.</hi>
+                  <note place="margin">1. <hi>Pet.</hi> 5.6.</note> 
+                  <hi>Humiliamini ergo,</hi> ſaith Saint <hi>Peter;</hi> and after it there followeth ſtill, <hi>&amp; exal<g ref="char:EOLhyphen"/>tabit vos Deus,</hi> a promiſe of a like <hi>glorious</hi> end. And what ſaith the Apoſtle here? This
+<pb n="43" facs="tcp:291:23"/>
+                  <hi>minde</hi> (ſaith he) <hi>was in Chriſt;</hi>
+                  <note place="margin">Verſe 1.</note> and it was <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> wiſe mind: That, we count it a wiſe mind, and worth the carying, and carie it; and it ſhall carie vs, to the ſame iourneys end, it brought Him: euen <hi>to the glory of God the Father.</hi> This for <hi>Humilitie.</hi>
+               </p>
+               <p>
+                  <note place="margin">Obediens Donuno.</note>And what? Shall we not giue ſome light <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ial, of our <hi>Obedience</hi> alſo, to auerre our <hi>Con<g ref="char:EOLhyphen"/>feſsion,</hi> that, <hi>He is our Lord?</hi> It would be, by, <hi>Domine, quid nos vis facere?</hi> (that is the true triall.) Say then, <hi>Domine, quid nos vis facere?</hi> And, he wil anſwere vs; <hi>Hoc facite in mei me<g ref="char:EOLhyphen"/>moria<g ref="char:cmbAbbrStroke">̄</g>.</hi> Wil ye know, what I would haue you doe? <hi>Doe this, in remembrance of me:</hi> In ſigne that I am <hi>Lord,</hi> doe but this: Here is a caſe of inſtance, and that now; euen at this very preſent, a proofe to be made. By this, we ſhal ſee, whether He bee <hi>Lord</hi> or no. For, if not this; but, ſlip the collar here, and ſhrinke a<g ref="char:EOLhyphen"/>way: <hi>Si rem grandem dixiſſet,</hi>
+                  <note place="margin">2. Reg. 5.13.</note> in a farre grea<g ref="char:EOLhyphen"/>ter matter, how would we ſtand with Him, then? Wee were wrong before, here is the <hi>ſound and ſyllables,</hi> (wee ſpake of,) here it is. For, all is but <hi>ſound and ſyllables,</hi> if, not this.</p>
+               <p>But of vs, <hi>I hope for better things,</hi>
+                  <note place="margin">Heb. 6.9.</note> that by
+<pb n="44" facs="tcp:291:24"/>
+                  <hi>our humble</hi> cariage, and <hi>Obedience</hi> (at leaſt, in this) we wil ſet our ſelues, ſome way to <hi>Exalt Him,</hi> in this <hi>His</hi> day of <hi>Exaltation:</hi> Which, as it will tend to His <hi>glory;</hi> ſo will Hee turne it to matter of our <hi>glory:</hi> and that, in His Kingdome of <hi>glory:</hi> or (to keepe the word of the Text) <hi>in the glory of God the Father.</hi> That ſo, wee may end, as the Text ends. A better, or more bleſſed end there cannot be. And, to this bleſſed end, Hee bring vs, that by His <hi>Humilitie</hi> and <hi>Obedience</hi> hath not onely purchaſed it <hi>for vs:</hi> but ſet the way open, and gone it before vs, IESVS CHRIST <hi>the Righ<g ref="char:EOLhyphen"/>teous, &amp;c.</hi>
+               </p>
+               <pb facs="tcp:291:24"/>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
